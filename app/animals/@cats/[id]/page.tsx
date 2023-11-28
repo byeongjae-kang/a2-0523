@@ -1,4 +1,4 @@
-import { Cat } from "../page";
+import { Cat } from "@/components/CatList";
 import Image from "next/image";
 type PropsType = {
   params: { id: string };
